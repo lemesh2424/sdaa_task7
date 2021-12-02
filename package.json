@@ -1,0 +1,17 @@
+{
+  "name": "sdaa_task_job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "source": "src/index.ts",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.1",
+    "typescript": "^4.5.2"
+  }
+}
